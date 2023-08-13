@@ -1,5 +1,6 @@
-# Adidas-Sales-performance-Project
+# Adidas-Sales-performance-Project 
 Project On Adidas Sales performance over the period of 2020 - 2021
+Data: Microsoft Excel
 
 ### Business Understanding:
 Adidas is a German athletic apparel and footwear corporation headquarted in Herzogenaurach, Bevaria, Germany.
